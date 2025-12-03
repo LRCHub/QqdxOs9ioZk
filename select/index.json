@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "OH NO,OH YES!",
+  "base_artist": "Mariya Takeuchi",
+  "createdAt": "2025-12-03T13:05:50.197808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OH NO,OH YES! - OH NO, OH YES! (2012 Remastered)",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/01_OH_NO,OH_YES!_-_OH_NO,_OH_YES!_(2012_Remastered)_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OH NO, OH YES!",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/02_OH_NO,_OH_YES!_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oh No! Oh Yes!",
+      "artist": "梅艷芳",
+      "has_synced": true,
+      "path": "select/03_Oh_No!_Oh_Yes!_梅艷芳.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oh No! Oh Yes!",
+      "artist": "梅艳芳",
+      "has_synced": true,
+      "path": "select/04_Oh_No!_Oh_Yes!_梅艳芳.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oh No, Oh Yes!",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/05_Oh_No,_Oh_Yes!_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "OH NO,OH YES!",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/06_OH_NO,OH_YES!_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "oh no oh yes!",
+      "artist": "anita mui",
+      "has_synced": true,
+      "path": "select/07_oh_no_oh_yes!_anita_mui.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "OH NO, OH YES!",
+      "artist": "Nakamori, Akina",
+      "has_synced": true,
+      "path": "select/08_OH_NO,_OH_YES!_Nakamori,_Akina.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oh No, Oh Yes",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/09_Oh_No,_Oh_Yes_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oh No, Oh Yes!",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/10_Oh_No,_Oh_Yes!_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oh No, Oh Yes!",
+      "artist": "竹内まりや (Mariya Takeuchi)",
+      "has_synced": true,
+      "path": "select/11_Oh_No,_Oh_Yes!_竹内まりや_(Mariya_Takeuchi).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oh No Oh Yes",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/12_Oh_No_Oh_Yes_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "OH NO, OH YES!",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/13_OH_NO,_OH_YES!_竹内まりや.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OH NO,OH YES!",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_01_OH_NO,OH_YES!_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Oh No, Oh Yes!",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_02_Oh_No,_Oh_Yes!_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "OH NO, OH YES!",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_03_OH_NO,_OH_YES!_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Oh No, Oh Yes!",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_04_Oh_No,_Oh_Yes!_竹内_まりや.txt"
+    }
+  ]
+}
